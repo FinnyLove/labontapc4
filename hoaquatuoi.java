@@ -1,4 +1,4 @@
-package labbtc4;
+package labontapc4;
 
 import java.util.Scanner;
 
